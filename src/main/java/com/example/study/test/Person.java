@@ -1,5 +1,7 @@
 package com.example.study.test;
 
+import java.util.HashMap;
+
 public class Person {
     private Long id;
     private String name;
